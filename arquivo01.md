@@ -1,1 +1,3 @@
-Primeiros passos dos estudos para preparação de uma vaga de QA e BD
+Primeiros passos dos estudos para preparação de uma vaga de QA e BD.
+
+Arquivo editado para testes!!!
