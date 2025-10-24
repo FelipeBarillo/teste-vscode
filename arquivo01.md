@@ -1,0 +1,1 @@
+Primeiros passos dos estudos para preparação de uma vaga de QA e BD
