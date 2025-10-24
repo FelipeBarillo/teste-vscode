@@ -3,3 +3,5 @@ Primeiros passos dos estudos para preparação de uma vaga de QA e BD.
 Arquivo editado para testes!!!
 
 Usando o gitt pull teste!!!
+
+versão 2
